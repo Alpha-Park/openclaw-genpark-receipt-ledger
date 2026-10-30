@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-receipt-ledger",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Receipt Ledger - Merkle Mountain Range and RFC 6962 proof-of-execution ledger with cryptographic inclusion proofs and HMAC signatures.",
+  "tools": [
+    "append_receipt_entry",
+    "compute_merkle_root",
+    "generate_and_verify_audit_path"
+  ]
+}
